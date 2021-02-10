@@ -12,6 +12,7 @@
 *://android.keicode.com/*
 *://android.tecc0.com/*
 *://apopara.com.br/*
+*://appcoding.net/*
 *://apps.jp.net/*
 *://arakan-pgm-ai.hatenablog.com/*
 *://araramistudio.jimdo.com/*
@@ -54,6 +55,7 @@
 *://digital-marketing.jp/*
 *://dime.jp/*
 *://docs.fastly.com/*
+*://dorasw.rosx.net/*
 *://driver-times.com/*
 *://dzone.com/*
 *://el.coredump.biz/*
@@ -66,11 +68,13 @@
 *://flutter.ctrnost.com/*
 *://flutter-examples.com/*
 *://flutterexamples.com/*
+*://fluttergems.dev/*
 *://flutterigniter.com/*
 *://flutter.keicode.com/*
 *://flutterrdart.com/*
 *://flutter-widget.live/*
 *://freepc.jp/*
+*://friegen.xyz/*
 *://fugx.apollostar-safari.de/*
 *://fushihara.org/*
 *://gabonjeans.com/*
@@ -92,6 +96,7 @@
 *://illbenet.jp/*
 *://inducesmile.com/*
 *://inneka.com/*
+*://issuehub.io/*
 *://itnews.org/*
 *://itome.team/*
 *://itsconsulting.pl/*
@@ -128,11 +133,13 @@
 *://linuxexpert.ne.jp/*
 *://livebook.manning.com/*
 *://living-sun.com/*
+*://losenotime.jp/*
 *://loumo.jp/*
 *://lxfd.garage-gentilly-autoroute.fr/*
 *://magazine.techcareer.jp/*
 *://maidonanews.jp/*
 *://makicamel.hatenablog.com/*
+*://makulogsleep.com/*
 *://masareukey.com/*
 *://matome.naver.jp/*
 *://mebius0214.com/*
@@ -142,6 +149,7 @@
 *://medium.com/@theboringdeveloper/*
 *://memotora.com/*
 *://menster.wp.xdomain.jp/*
+*://menta.work/*
 *://minpro.net/*
 *://mogile.web.fc2.com/*
 *://moov.ooo/*
@@ -153,6 +161,7 @@
 *://new-challenge123.com/*
 *://news.mynavi.jp/*
 *://newstopics.jp/*
+*://ngbfumg.top-any.site/*
 *://noknow.info/*
 *://note.com/*
 *://note.com/o_matsuo/*
@@ -162,6 +171,7 @@
 *://note.com/yamarkz/*
 *://nzigen.com/*
 *://octolinker-demo.now.sh/*
+*://ojed.hatenablog.com/*
 *://okutaro.xsrv.jp/*
 *://omohikane.com/*
 *://onioncode.com/*
@@ -234,6 +244,7 @@
 *://tanakatarou.tech/*
 *://tap-biz.jp/*
 *://techacademy.jp/*
+*://tech-blog.rakus.co.jp/*
 *://techbooster.org/*
 *://tech.mof-mof.co.jp/*
 *://tech-rise.net/*
@@ -256,6 +267,7 @@
 *://websetnet.net/*
 *://whatsnewqiita.com/*
 *://willowtreeapps.com/*
+*://wonwon-eater.com/*
 *://workpiles.com/*
 *://www.366service.com/*
 *://www.aizulab.com/*
@@ -267,17 +279,21 @@
 *://www.bountysource.com/*
 *://www.code-adviser.com/*
 *://www.codeflow.site/*
+*://www.codegrepper.com/*
 *://www.codesolution.co.in/*
 *://www.codota.com/*
 *://www.comline.uk.com/*
 *://www.cresc.co.jp/*
 *://www.cyberciti.biz/*
 *://www.dev4app.com/*
+*://www.digno.nl/*
 *://www.dondari.com/*
+*://www.egao-inc.co.jp/*
 *://www.expertphp.in/*
 *://www.filledstacks.com/*
 *://www.fisioalfieri.it/*
 *://www.fitnesslove.net/*
+*://www.fixes.pub/*
 *://www.flatflag.nir87.com/*
 *://www.flutter-study.dev/*
 *://www.geeksforgeeks.org/*
@@ -286,8 +302,10 @@
 *://www.gizmodo.jp/*
 *://www.htmq.com/*
 *://www.iditect.com/*
+*://www.iflutter.in/*
 *://www.ilovex.co.jp/*
 *://www.indetail.co.jp/*
+*://www.issuehub.io/*
 *://www.itsenka.com/*
 *://www.it-swarm.asia/*
 *://www.it-swarm.dev/*
@@ -304,6 +322,7 @@
 *://www.ossnews.jp/*
 *://www.pentasecurity.co.jp/*
 *://www.php-mysql-linux.com/*
+*://www.picuki.com/*
 *://www.pinterest.jp/*
 *://www.pinterest.ph/*
 *://www.praph.tokyo/*
@@ -334,6 +353,6 @@
 *://yebisupress.dac.co.jp/*
 *://youhearbiggirls.com/*
 *://yuuki-dimension.com/*
+*://zenn.dev/*
 *://zero-sys.co.jp/*
 *://zoomy.info/*
-*://www.digno.nl/*
