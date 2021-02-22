@@ -1,8 +1,8 @@
-
 *://*.developreference.com/*
 *://101010.fun/*
 *://26gram.com/*
 *://58a95783c57b4f74a9428f9dda03399d.testing-url.ws/*
+*://acthouse.net/*
 *://aimana-it.com/*
 *://aire-voice.com/*
 *://akira-watson.com/*
@@ -14,6 +14,7 @@
 *://android.keicode.com/*
 *://android.tecc0.com/*
 *://apopara.com.br/*
+*://app-preferences-android.bernieswestbrant.com/*
 *://apps.jp.net/*
 *://arakan-pgm-ai.hatenablog.com/*
 *://araramistudio.jimdo.com/*
@@ -28,6 +29,7 @@
 *://blog.hubspot.jp/*
 *://blog.treedown.net/*
 *://blog.ttskch.com/*
+*://buginfo.tech/*
 *://bugsdb.com/*
 *://bukiyo-papa.com/*
 *://cabal.gamepedia.com/*
@@ -43,6 +45,7 @@
 *://codereview.stackovernet.com/*
 *://codewithandrea.com/*
 *://concigel.dev/*
+*://create-it-myself.com/*
 *://creativebracket.com/*
 *://crieit.net/*
 *://daichan.club/*
@@ -55,6 +58,7 @@
 *://digital-marketing.jp/*
 *://dime.jp/*
 *://docs.fastly.com/*
+*://docs.w3cub.com/*
 *://docsplayer.net/*
 *://driver-times.com/*
 *://dzone.com/*
@@ -87,6 +91,7 @@
 *://hackerlife.blog.fc2.com/*
 *://hajimete-program.com/*
 *://hensa40.cutegirl.jp/*
+*://hidekatsu.com/*
 *://html-coding.co.jp/*
 *://html.developreference.com/*
 *://ichi.pro/*
@@ -140,6 +145,7 @@
 *://masareukey.com/*
 *://masaytan.com/*
 *://matome.naver.jp/*
+*://mayonez.jp/*
 *://mebius0214.com/*
 *://medium.com/*
 *://medium.com/@heavenosk/*
@@ -172,6 +178,7 @@
 *://onioncode.com/*
 *://openhome.cc/*
 *://oreno-it.info/*
+*://ossan-labo.site/*
 *://osusume.kingsoft.jp/*
 *://ougiitirou.web.fc2.com/*
 *://pg-chain.com/*
@@ -189,6 +196,7 @@
 *://programming-beginner-zeroichi.jp/*
 *://programming-jissen.com/*
 *://protocoderspoint.com/*
+*://pursue.fun/*
 *://python5.com/*
 *://qa.codeflow.site/*
 *://qastack.jp/*
@@ -222,12 +230,15 @@
 *://sleepless-se.net/*
 *://smallbusiness.chron.com/*
 *://smatabinfo.jp/*
+*://soba.txt-nifty.com/*
+*://sodocumentation.net/*
 *://somen.site/*
 *://sql55.com/*
 *://srbrnote.work/*
 *://src-bin.com/*
 *://stackoverrun.com/*
 *://startuptimes.jp/*
+*://steakrecords.com/*
 *://steampixel.de/*
 *://steemit.com/*
 *://stenbeck.io/*
@@ -298,8 +309,10 @@
 *://www.it-swarm-ja.tech/*
 *://www.it-swarm.asia/*
 *://www.it-swarm.dev/*
+*://www.it-swarm.jp.net/*
 *://www.it-swarm.net/*
 *://www.itsenka.com/*
+*://www.javaer101.com/*
 *://www.javased.com/*
 *://www.m3tech.blog/*
 *://www.manning.com/*
@@ -311,6 +324,7 @@
 *://www.ossnews.jp/*
 *://www.pentasecurity.co.jp/*
 *://www.php-mysql-linux.com/*
+*://www.pinterest.ca/*
 *://www.pinterest.jp/*
 *://www.pinterest.ph/*
 *://www.praph.tokyo/*
@@ -322,6 +336,7 @@
 *://www.sejuku.net/*
 *://www.seplus.jp/*
 *://www.setouchino.cloud/*
+*://www.simont.com.br/*
 *://www.smlll.com/*
 *://www.soldi.jp/*
 *://www.swift-study.com/*
@@ -337,6 +352,7 @@
 *://www.write-ahead-log.net/*
 *://www.xsol.co.jp/*
 *://www.xspdf.com/*
+*://y-u-y-a-blog.com/*
 *://yaba-blog.com/*
 *://yebisupress.dac.co.jp/*
 *://youhearbiggirls.com/*
