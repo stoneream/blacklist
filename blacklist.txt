@@ -26,7 +26,9 @@
 *://askdev.io/*
 *://astashov.s3.amazonaws.com/*
 *://awesomeopensource.com/*
+*://bbh.bz/*
 *://bdtjtk.blogspot.com/*
+*://betterprogramming.pub/*
 *://bezkoder.com/*
 *://bittimes.net/*
 *://bitwave.showcase-tv.com/*
@@ -65,6 +67,7 @@
 *://digital-marketing.jp/*
 *://dime.jp/*
 *://docs.fastly.com/*
+*://docs.teradata.com/*
 *://docs.w3cub.com/*
 *://docsplayer.net/*
 *://dorasw.rosx.net/*
@@ -106,6 +109,7 @@
 *://hidekatsu.com/*
 *://html-coding.co.jp/*
 *://html.developreference.com/*
+*://i-app-tec.com/*
 *://ichi.pro/*
 *://ichiroku11.hatenablog.jp/*
 *://illbenet.jp/*
@@ -118,6 +122,7 @@
 *://itome.team/*
 *://itsconsulting.pl/*
 *://ja.coder.work/*
+*://ja.ecnf2016.org/*
 *://ja.ojit.com/*
 *://ja.programqa.com/*
 *://ja.unflf.com/*
@@ -131,6 +136,7 @@
 *://juejin.im/*
 *://k-1blog.com/*
 *://kakedasigame.com/*
+*://katayama-osamu.com/*
 *://kaworu.jpn.org/*
 *://kerubito.net/*
 *://kifarunix.com/*
@@ -142,6 +148,7 @@
 *://koseki.hatenablog.com/*
 *://kotaeta.com/*
 *://kuraneo.jp/*
+*://kurasitonet.com/*
 *://kwmt27.net/*
 *://labor.ewigleere.net/*
 *://lanchesters.site/*
@@ -200,6 +207,7 @@
 *://note.com/yamarkz/*
 *://nzigen.com/*
 *://octolinker-demo.now.sh/*
+*://office-obata.com/*
 *://ojed.hatenablog.com/*
 *://okutaro.xsrv.jp/*
 *://omohikane.com/*
@@ -222,6 +230,7 @@
 *://proandroiddev.com/*
 *://proengineer.internous.co.jp/*
 *://programfromscratch.com/*
+*://programmerstart.com/*
 *://programming-beginner-zeroichi.jp/*
 *://programming-jissen.com/*
 *://protocoderspoint.com/*
@@ -284,9 +293,11 @@
 *://tech-camp.in/*
 *://tech-rise.net/*
 *://tech.mof-mof.co.jp/*
+*://tech.moyashidaisuke.com/*
 *://techacademy.jp/*
 *://techbooster.org/*
 *://tekunabe.hatenablog.jp/*
+*://teratail.com/*
 *://thegogiver.jp/*
 *://theshare.info/*
 *://think-on-object.blogspot.com/*
@@ -313,6 +324,7 @@
 *://www.androidauthority.com/*
 *://www.androidpit.com/*
 *://www.asobou.co.jp/*
+*://www.atnr.net/*
 *://www.baeldung.com/*
 *://www.bmc.com/*
 *://www.boel.co.jp/*
@@ -344,6 +356,7 @@
 *://www.ginzaitlab.com/*
 *://www.gitmemory.com/*
 *://www.gizmodo.jp/*
+*://www.hnyssh.net/*
 *://www.htmq.com/*
 *://www.iditect.com/*
 *://www.iflutter.in/*
@@ -351,6 +364,7 @@
 *://www.indetail.co.jp/*
 *://www.issuehub.io/*
 *://www.it-mure.jp.net/*
+*://www.it-swarm-ja.com/*
 *://www.it-swarm-ja.tech/*
 *://www.it-swarm.asia/*
 *://www.it-swarm.dev/*
@@ -391,6 +405,7 @@
 *://www.thetopsites.net/*
 *://www.tutorialkart.com/*
 *://www.tutorialspoint.com/*
+*://www.useful-notes.com/*
 *://www.virment.com/*
 *://www.vogella.com/*
 *://www.wakuwakubank.com/*
@@ -402,6 +417,7 @@
 *://y-u-y-a-blog.com/*
 *://yaba-blog.com/*
 *://yebisupress.dac.co.jp/*
+*://yoshitechblog.com/*
 *://youhearbiggirls.com/*
 *://yuuki-dimension.com/*
 *://zenn.dev/*
