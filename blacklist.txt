@@ -1,6 +1,7 @@
 *://*.developreference.com/*
 *://101010.fun/*
 *://26gram.com/*
+*://5.9.10.113/*
 *://58a95783c57b4f74a9428f9dda03399d.testing-url.ws/*
 *://acthouse.net/*
 *://aimana-it.com/*
@@ -26,6 +27,7 @@
 *://askdev.io/*
 *://astashov.s3.amazonaws.com/*
 *://awesomeopensource.com/*
+*://base64.work/*
 *://bbh.bz/*
 *://bdtjtk.blogspot.com/*
 *://betterprogramming.pub/*
@@ -50,6 +52,7 @@
 *://code-examples.net/*
 *://codechacha.com/*
 *://codeday.me/*
+*://codehero.jp/*
 *://codequs.com/*
 *://codereview.stackovernet.com/*
 *://codewithandrea.com/*
@@ -70,10 +73,13 @@
 *://docs.teradata.com/*
 *://docs.w3cub.com/*
 *://docsplayer.net/*
+*://doitu.info/*
 *://dorasw.rosx.net/*
 *://driver-times.com/*
 *://dzone.com/*
+*://ecommerce-platforms.com/*
 *://el.coredump.biz/*
+*://enesuke.jp/*
 *://eng-entrance.com/*
 *://enrichoneslife.com/*
 *://eo.ondadorto.it/*
@@ -89,6 +95,7 @@
 *://fluttergems.dev/*
 *://flutterigniter.com/*
 *://flutterrdart.com/*
+*://flytech.work/*
 *://freepc.jp/*
 *://friegen.xyz/*
 *://fugx.apollostar-safari.de/*
@@ -99,11 +106,13 @@
 *://gigazine.net/*
 *://gist.github.com/bz0/*
 *://githubja.com/*
+*://githubmemory.com/*
 *://gitmemory.com/*
 *://gitter.im/*
 *://gray-code.com/*
 *://gsuiteguide.jp/*
 *://hackerlife.blog.fc2.com/*
+*://hacknote.jp/*
 *://hajimete-program.com/*
 *://hensa40.cutegirl.jp/*
 *://hidekatsu.com/*
@@ -137,6 +146,7 @@
 *://k-1blog.com/*
 *://kakedasigame.com/*
 *://katayama-osamu.com/*
+*://katsfreelife.blog/*
 *://kaworu.jpn.org/*
 *://kerubito.net/*
 *://kifarunix.com/*
@@ -156,6 +166,7 @@
 *://laraweb.net/*
 *://lcpllutzlivetotell.org/*
 *://ledge.ai/*
+*://levelup.gitconnected.com/*
 *://lifekeynotes.com/*
 *://lightningshift.com/*
 *://liginc.co.jp/*
@@ -217,6 +228,7 @@
 *://ossan-labo.site/*
 *://osusume.kingsoft.jp/*
 *://ougiitirou.web.fc2.com/*
+*://pcgamer-12.com/*
 *://pg-chain.com/*
 *://pg-happy.jp/*
 *://pgmemo.tokyo/*
@@ -250,6 +262,7 @@
 *://repology.org/*
 *://reseed.resemom.jp/*
 *://riptutorial.com/*
+*://runebook.dev/*
 *://rusken.no/*
 *://ryuta46.com/*
 *://sabarentalserver.com/*
@@ -304,13 +317,16 @@
 *://toconakis.tech/*
 *://togetter.com/*
 *://tracpath.com/*
+*://try2explore.com/*
 *://ts0818.hatenablog.com/*
 *://tutorialmore.com/*
+*://tutorials.techgaku.com/*
 *://utano.jp/*
 *://uxmilk.jp/*
 *://venturetimes.jp/*
 *://vimawesome.com/*
 *://viva-drone.com/*
+*://vuldb.com/*
 *://wacul-ai.com/*
 *://web-camp.io/*
 *://webkaru.net/*
@@ -329,6 +345,7 @@
 *://www.bmc.com/*
 *://www.boel.co.jp/*
 *://www.bountysource.com/*
+*://www.casleyconsulting.co.jp/*
 *://www.code-adviser.com/*
 *://www.codeflow.site/*
 *://www.codegrepper.com/*
@@ -341,6 +358,8 @@
 *://www.dev4app.com/*
 *://www.digno.nl/*
 *://www.dondari.com/*
+*://www.eco-hatsu.com/*
+*://www.educba.com/*
 *://www.egao-inc.co.jp/*
 *://www.expertphp.in/*
 *://www.fenet.jp/*
@@ -353,10 +372,12 @@
 *://www.freelancer.com/*
 *://www.freelancer.jp/*
 *://www.geeksforgeeks.org/*
+*://www.generacodice.com/*
 *://www.ginzaitlab.com/*
 *://www.gitmemory.com/*
 *://www.gizmodo.jp/*
 *://www.hnyssh.net/*
+*://www.howtogeek.com/*
 *://www.htmq.com/*
 *://www.iditect.com/*
 *://www.iflutter.in/*
@@ -373,10 +394,13 @@
 *://www.itsenka.com/*
 *://www.javaer101.com/*
 *://www.javased.com/*
+*://www.kejisen.com/*
+*://www.lanches.co.jp/*
 *://www.m3tech.blog/*
 *://www.manning.com/*
 *://www.mmbyte.com/*
 *://www.moreuseful.info/*
+*://www.mycelvan.com/*
 *://www.nippon.com/*
 *://www.notice.co.jp/*
 *://www.nuomiphp.com/*
@@ -392,6 +416,7 @@
 *://www.programcreek.com/*
 *://www.programmersought.com/*
 *://www.proverbmeaning.com/*
+*://www.py4u.net/*
 *://www.raywenderlich.com/*
 *://www.searchlight8.com/*
 *://www.sejuku.net/*
