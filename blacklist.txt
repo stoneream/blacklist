@@ -239,6 +239,7 @@
 *://new-challenge123.com/*
 *://newbedev.com/*
 *://news.mynavi.jp/*
+*://newspicks.com/*
 *://newstopics.jp/*
 *://ngbfumg.top-any.site/*
 *://noknow.info/*
@@ -265,6 +266,7 @@
 *://ossan-labo.site/*
 *://osusume.kingsoft.jp/*
 *://ougiitirou.web.fc2.com/*
+*://paiza.hatenablog.com/*
 *://pcgamer-12.com/*
 *://pg-chain.com/*
 *://pg-happy.jp/*
@@ -342,9 +344,11 @@
 *://tadtadya.com/*
 *://tanakatarou.tech/*
 *://tap-biz.jp/*
+*://tech-blog.optim.co.jp/*
 *://tech-blog.rakus.co.jp/*
 *://tech-camp.in/*
 *://tech-rise.net/*
+*://tech.connehito.com/*
 *://tech.mof-mof.co.jp/*
 *://tech.moyashidaisuke.com/*
 *://techacademy.jp/*
@@ -378,6 +382,7 @@
 *://websetnet.net/*
 *://whatsnewqiita.com/*
 *://willowtreeapps.com/*
+*://winactor.com/*
 *://wonwon-eater.com/*
 *://workpiles.com/*
 *://www.366service.com/*
@@ -387,9 +392,12 @@
 *://www.analyticsmania.com/*
 *://www.androidauthority.com/*
 *://www.androidpit.com/*
+*://www.anycodings.com/*
+*://www.appsloveworld.com/*
 *://www.asobou.co.jp/*
 *://www.atnr.net/*
 *://www.baeldung.com/*
+*://www.blog.umentu.work/*
 *://www.bmc.com/*
 *://www.boel.co.jp/*
 *://www.bountysource.com/*
@@ -490,6 +498,7 @@
 *://www.virment.com/*
 *://www.vogella.com/*
 *://www.wakuwakubank.com/*
+*://www.web-dev-qa-db-ja.com/*
 *://www.webdevqa.jp.net/*
 *://www.webprofessional.jp/*
 *://www.wenyanet.com/*
