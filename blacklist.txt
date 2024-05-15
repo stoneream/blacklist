@@ -538,3 +538,16 @@
 *://nishitai.bigbeat.co.jp/*
 *://mokotablog.com/*
 *://wirelesswire.jp/*
+*://netgeek.biz/*
+*://www.single-ended.com/*
+*://techfeed.io/*
+*://www.webrtc.fun/*
+*://moneyen.hatenablog.jp/*
+*://getakka.net/*
+*://cloudflow.io/*
+*://blog.knoldus.com/*
+*://blog.nashtechglobal.com/*
+*://quizjapan.com/*
+*://envader.plus/*
+*://open-groove.net/*
+*://standwave.jp/*
