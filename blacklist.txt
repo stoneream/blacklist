@@ -550,4 +550,16 @@
 *://quizjapan.com/*
 *://envader.plus/*
 *://open-groove.net/*
+*://www.scala-exercises.org/*
+*://golangbot.com/*
+*://www.pinterest.fr/*
+*://www.ragnet.co.jp/*
+*://picockpit.com/*
+*://a-w-a.co.jp/*
+*://ranking.goo.ne.jp/*
+*://ja.getdocs.org/*
+*://ear-headphones.allabout.co.jp/*
+*://bestone.allabout.co.jp/*
+*://n-note.com/*
+*://pathee.com/*
 *://standwave.jp/*
