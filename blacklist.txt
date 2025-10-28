@@ -272,11 +272,6 @@
 *://nlab.itmedia.co.jp/*
 *://noknow.info/*
 *://note.com/*
-*://note.com/o_matsuo/*
-*://note.com/shogoyamada/*
-*://note.com/syun77/*
-*://note.com/ujisakura/*
-*://note.com/yamarkz/*
 *://nowtice.net/*
 *://nullnull.dev/*
 *://nzigen.com/*
