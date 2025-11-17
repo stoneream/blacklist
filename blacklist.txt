@@ -560,3 +560,14 @@
 *://zenn.dev/*
 *://zero-sys.co.jp/*
 *://zoomy.info/*
+*://magazine.techacademy.jp/*
+*://engineer-labo.com/*
+*://www.freecodecamp.org/*
+*://hackernoon.com/*
+*://m.php.cn/*
+*://www.engineer-route.com/*
+*://www.issoh.co.jp/*
+*://persol-serverworks.co.jp/*
+*://book.st-hakky.com/*
+*://trends.codecamp.jp/*
+*://techplay.jp/*
