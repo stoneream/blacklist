@@ -48,6 +48,7 @@
 *://blog.panicblanket.com/*
 *://blog.treedown.net/*
 *://blog.ttskch.com/*
+*://book.st-hakky.com/*
 *://buginfo.tech/*
 *://bugsdb.com/*
 *://bukiyo-papa.com/*
@@ -98,6 +99,7 @@
 *://el.coredump.biz/*
 *://enesuke.jp/*
 *://eng-entrance.com/*
+*://engineer-labo.com/*
 *://engineer-style.jp/*
 *://enrichoneslife.com/*
 *://envader.plus/*
@@ -143,6 +145,7 @@
 *://gray-code.com/*
 *://gsuiteguide.jp/*
 *://hackerlife.blog.fc2.com/*
+*://hackernoon.com/*
 *://hacknote.jp/*
 *://hajimete-program.com/*
 *://hataworakuni.net/*
@@ -229,6 +232,8 @@
 *://losenotime.jp/*
 *://loumo.jp/*
 *://lxfd.garage-gentilly-autoroute.fr/*
+*://m.php.cn/*
+*://magazine.techacademy.jp/*
 *://magazine.techcareer.jp/*
 *://maidonanews.jp/*
 *://makicamel.hatenablog.com/*
@@ -241,9 +246,9 @@
 *://matome.naver.jp/*
 *://mayonez.jp/*
 *://mebius0214.com/*
-*://medium.com/*
 *://medium.com/@heavenosk/*
 *://medium.com/@theboringdeveloper/*
+*://medium.com/*
 *://medium.com/swlh/*
 *://memotora.com/*
 *://menster.wp.xdomain.jp/*
@@ -295,6 +300,7 @@
 *://paiza.hatenablog.com/*
 *://pathee.com/*
 *://pcgamer-12.com/*
+*://persol-serverworks.co.jp/*
 *://pg-chain.com/*
 *://pg-happy.jp/*
 *://pgmemo.tokyo/*
@@ -391,6 +397,7 @@
 *://techbooster.org/*
 *://techexpert.tips/*
 *://techfeed.io/*
+*://techplay.jp/*
 *://tekunabe.hatenablog.jp/*
 *://teratail.com/*
 *://thegogiver.jp/*
@@ -400,6 +407,7 @@
 *://toconakis.tech/*
 *://togetter.com/*
 *://tracpath.com/*
+*://trends.codecamp.jp/*
 *://try2explore.com/*
 *://ts0818.hatenablog.com/*
 *://tutorialmore.com/*
@@ -457,6 +465,7 @@
 *://www.eco-hatsu.com/*
 *://www.educba.com/*
 *://www.egao-inc.co.jp/*
+*://www.engineer-route.com/*
 *://www.expertphp.in/*
 *://www.ey-office.com/*
 *://www.fenet.jp/*
@@ -466,6 +475,7 @@
 *://www.fixes.pub/*
 *://www.flatflag.nir87.com/*
 *://www.flutter-study.dev/*
+*://www.freecodecamp.org/*
 *://www.freelancer.com/*
 *://www.freelancer.jp/*
 *://www.geeksforgeeks.org/*
@@ -481,6 +491,7 @@
 *://www.ilovex.co.jp/*
 *://www.indetail.co.jp/*
 *://www.instabase.jp/*
+*://www.issoh.co.jp/*
 *://www.issuehub.io/*
 *://www.it-mure.jp.net/*
 *://www.it-swarm-ja.com/*
@@ -560,14 +571,4 @@
 *://zenn.dev/*
 *://zero-sys.co.jp/*
 *://zoomy.info/*
-*://magazine.techacademy.jp/*
-*://engineer-labo.com/*
-*://www.freecodecamp.org/*
-*://hackernoon.com/*
-*://m.php.cn/*
-*://www.engineer-route.com/*
-*://www.issoh.co.jp/*
-*://persol-serverworks.co.jp/*
-*://book.st-hakky.com/*
-*://trends.codecamp.jp/*
-*://techplay.jp/*
+git@github.com:stoneream/blacklist.git
